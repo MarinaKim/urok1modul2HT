@@ -5,6 +5,7 @@
 #include<math.h>
 using namespace std;
 char u;
+
 void main()
 {
 	setlocale(LC_ALL, "Russian");
